@@ -1,4 +1,3 @@
-import java.lang.Character.isMirrored
 import java.util.*
 
 /**
